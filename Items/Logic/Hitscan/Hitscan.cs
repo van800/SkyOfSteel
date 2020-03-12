@@ -1,7 +1,7 @@
 using Godot;
 using static Godot.Mathf;
 using System.Collections.Generic;
-
+using SkyOfSteel.Misc;
 
 
 public class Hitscan : Spatial

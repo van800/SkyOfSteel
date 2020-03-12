@@ -2,6 +2,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyOfSteel", "SkyOfSteel.csproj", "{D7E2C73A-8536-40EE-AC39-87B5F5970880}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{80CA55CE-C913-4673-BA38-3EF475083450}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 	Debug|Any CPU = Debug|Any CPU
@@ -15,5 +17,11 @@ Global
 		{D7E2C73A-8536-40EE-AC39-87B5F5970880}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D7E2C73A-8536-40EE-AC39-87B5F5970880}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
 		{D7E2C73A-8536-40EE-AC39-87B5F5970880}.Tools|Any CPU.Build.0 = Tools|Any CPU
+		{80CA55CE-C913-4673-BA38-3EF475083450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CA55CE-C913-4673-BA38-3EF475083450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CA55CE-C913-4673-BA38-3EF475083450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CA55CE-C913-4673-BA38-3EF475083450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CA55CE-C913-4673-BA38-3EF475083450}.Tools|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CA55CE-C913-4673-BA38-3EF475083450}.Tools|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
