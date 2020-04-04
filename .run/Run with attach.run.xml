@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run with attach (2)" type="RunNativeExe" factoryName="Native Executable">
+    <option name="EXE_PATH" value="/Applications/Godot_mono 2.app/Contents/MacOS/Godot" />
+    <option name="PROGRAM_PARAMETERS" value="--path $PROJECT_DIR$" />
+    <option name="WORKING_DIRECTORY" value="/Applications/Godot_mono 2.app/Contents/MacOS" />
+    <option name="PASS_PARENT_ENVS" value="1" />
+    <envs>
+      <env name="GODOT_MONO_DEBUGGER_AGENT" value="--debugger-agent=transport=dt_socket,address=localhost:50013,server=n" />
+    </envs>
+    <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    <method v="2">
+      <option name="Build Solution" enabled="true" />
+    </method>
+  </configuration>
+</component>
